@@ -1,10 +1,12 @@
-## Iran Pacheco Jr 👋
+# Iran Pacheco Jr 👋
 
-Óla! 
-Estudando e aprendendo sempre venho da área de comunicação visual
-e atualmente me dedico a desenvolvimento de sistemas.
+## Óla! 
 
-Aqui estão algumas idéias para você começar:
+<p>Venho da área de comunicação visual; desde de</p>
+<p>2019 me dedico a uma migração de carreira para </p>
+<p>TI, área que sempre me inspirou. </p>
+
+
 
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
