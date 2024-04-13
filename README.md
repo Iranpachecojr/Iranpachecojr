@@ -1,11 +1,14 @@
-# Iran Pacheco Jr 👋
+# Iran Pacheco Jr 
 
-## Óla! 
+## Bem vindo! 
 
 <p>Venho da área de comunicação visual; desde de</p>
 <p>2019 me dedico a uma migração de carreira para </p>
 <p>TI, área que sempre me inspirou. </p>
 
+## Contatos
+* [Iran Pacheco Jr Linkedin] (https://www.linkedin.com/in/iranpjr/)
+* [gmail] (iranpachecopro@gmail.com)
 
 
 - 🔭 Atualmente estou trabalhando em Back-end
