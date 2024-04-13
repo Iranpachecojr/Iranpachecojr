@@ -7,8 +7,8 @@
 <p>TI, área que sempre me inspirou. </p>
 
 ## Contatos
-* [Iran Pacheco Jr Linkedin] (https://www.linkedin.com/in/iranpjr/)
-* [gmail] (iranpachecopro@gmail.com)
+* [Iran Pacheco Jr Linkedin] (https://www.linkedin.com/in/iranpjr/) {:target="_blank"}
+* [gmail] (iranpachecopro@gmail.com) {:target="_blank"}
 
 
 - 🔭 Atualmente estou trabalhando em Back-end
